@@ -1,0 +1,25 @@
+{
+  "name": "zayne_glatz_footer_generator",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zsglatz/zayne_glatz_footer_generator.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Zayne Glatz <zsglatz@gmail.com> (https://github.com/Zsglatz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zsglatz/zayne_glatz_footer_generator/issues"
+  },
+  "homepage": "https://github.com/Zsglatz/zayne_glatz_footer_generator#readme",
+  "dependencies": {
+    "moment": "^2.21.0"
+  }
+}
